@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    font-family: Calibri;
+    font-size: 14pt;
+    color: white;
+  }
+
+  h1 {
+    color: rgb(26, 137, 184);
+  }
+  p {
+    color: rgb(17, 146, 161);
+  }
+
+  a:link {
+    color: rgb(255, 255, 255); 
+    background-color: transparent; 
+    text-decoration: none;
+    font-family: Courier New, monospace;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+
+  img {
+    margin: 20px;
+   }
+
+  
